@@ -1,0 +1,263 @@
+{
+  "Actions": [
+    {
+      "Icon": "Images/icon",
+      "Name": "Overlay Settings",
+      "States": [
+        {
+          "Image": "Images/settings",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Launch Overlay Settings",
+      "UUID": "com.barraider.shadowplay.settings",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Broadcasting Toggle",
+      "States": [
+        {
+          "Image": "Images/broadcast",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Broadcasting Toggle",
+      "UUID": "com.barraider.shadowplay.broadcast",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Broadcast Pause/Resume",
+      "States": [
+        {
+          "Image": "Images/pausebroadcast",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Broadcast Pause/Resume",
+      "UUID": "com.barraider.shadowplay.pausebroadcast",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Camera Toggle",
+      "States": [
+        {
+          "Image": "Images/camera",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Camera Toggle",
+      "UUID": "com.barraider.shadowplay.camera",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Custom Overlay Toggle",
+      "States": [
+        {
+          "Image": "Images/overlay",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Custom Overlay Toggle",
+      "UUID": "com.barraider.shadowplay.overlay",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Custom Overlay 1",
+      "States": [
+        {
+          "Image": "Images/overlay1",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Custom Overlay 1",
+      "UUID": "com.barraider.shadowplay.overlay1",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Custom Overlay 2",
+      "States": [
+        {
+          "Image": "Images/overlay2",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Custom Overlay 2",
+      "UUID": "com.barraider.shadowplay.overlay2",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Custom Overlay 3",
+      "States": [
+        {
+          "Image": "Images/overlay3",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Custom Overlay 3",
+      "UUID": "com.barraider.shadowplay.overlay3",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "FPS Counter",
+      "States": [
+        {
+          "Image": "Images/fps",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "FPS Counter",
+      "UUID": "com.barraider.shadowplay.fps",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Facebook Comments Toggle",
+      "States": [
+        {
+          "Image": "Images/fbcomments",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Facebook Comments Toggle",
+      "UUID": "com.barraider.shadowplay.fbcomments",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Instant Replay Toggle",
+      "States": [
+        {
+          "Image": "Images/replay",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Instant Replay Toggle",
+      "UUID": "com.barraider.shadowplay.replay",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Manual Recording Toggle",
+      "States": [
+        {
+          "Image": "Images/record",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Manual Recording Toggle",
+      "UUID": "com.barraider.shadowplay.record",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Mic Push-To-Talk",
+      "States": [
+        {
+          "Image": "Images/ptt",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Microphone Push-To-Talk",
+      "UUID": "com.barraider.shadowplay.ptt",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Mic Toggle",
+      "States": [
+        {
+          "Image": "Images/mic",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Microphone Toggle",
+      "UUID": "com.barraider.shadowplay.mic",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Save Last 5 Minutes",
+      "States": [
+        {
+          "Image": "Images/save",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Save the last 5 minutes",
+      "UUID": "com.barraider.shadowplay.save",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Save Screenshot",
+      "States": [
+        {
+          "Image": "Images/screenshot",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Save Screenshot",
+      "UUID": "com.barraider.shadowplay.screenshot",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    }
+  ],
+  "Author": "BarRaider",
+  "Description": "Control NVIDIA Shadowplay from your Stream Deck\r\n*** PRE-RELEASE VERSION ***",
+  "Name": "Shadowplay",
+  "Icon": "Images/pluginIcon",
+  "URL": "https://barraider.github.io/",
+  "Version": "0.91",
+  "CodePathWin": "com.barraider.shadowplay.exe",
+  "Category": "Shadowplay",
+  "CategoryIcon": "Images/categoryIcon",
+  "OS": [
+    {
+      "Platform": "windows",
+      "MinimumVersion": "10"
+    }
+  ],
+  "SDKVersion": 2,
+  "Software": {
+    "MinimumVersion": "4.1"
+  }
+}
