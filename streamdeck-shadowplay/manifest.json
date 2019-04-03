@@ -242,13 +242,13 @@
     }
   ],
   "Author": "BarRaider",
-  "Description": "Control NVIDIA Shadowplay from your Stream Deck\r\n*** PRE-RELEASE VERSION ***",
-  "Name": "Shadowplay",
+  "Description": "Control NVIDIA ShadowPlay from your Stream Deck",
+  "Name": "ShadowPlay",
   "Icon": "Images/pluginIcon",
   "URL": "https://barraider.github.io/",
-  "Version": "0.91",
+  "Version": "1.0",
   "CodePathWin": "com.barraider.shadowplay.exe",
-  "Category": "Shadowplay",
+  "Category": "ShadowPlay",
   "CategoryIcon": "Images/categoryIcon",
   "OS": [
     {
