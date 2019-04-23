@@ -246,7 +246,7 @@
   "Name": "ShadowPlay",
   "Icon": "Images/pluginIcon",
   "URL": "https://barraider.github.io/",
-  "Version": "1.0",
+  "Version": "1.1",
   "CodePathWin": "com.barraider.shadowplay.exe",
   "Category": "ShadowPlay",
   "CategoryIcon": "Images/categoryIcon",

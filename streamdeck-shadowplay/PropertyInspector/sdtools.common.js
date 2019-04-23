@@ -129,6 +129,18 @@ function openWebsite() {
     }
 }
 
+function openNOD() {
+    if (websocket && (websocket.readyState === 1)) {
+        const json = {
+            'event': 'openUrl',
+            'payload': {
+                'url': 'https://nerdordie.com/product/stream-deck-key-icons/'
+            }
+        };
+        websocket.send(JSON.stringify(json));
+    }
+}
+
 if (!isQT) {
     document.addEventListener('DOMContentLoaded', function () {
         initPropertyInspector();
