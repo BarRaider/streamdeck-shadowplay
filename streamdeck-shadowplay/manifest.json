@@ -122,6 +122,51 @@
     },
     {
       "Icon": "Images/icon",
+      "Name": "Game Filter Toggle",
+      "States": [
+        {
+          "Image": "Images/gameFilter",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Game Filter Toggle",
+      "UUID": "com.barraider.shadowplay.gamefilter",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Game Filter - Edit",
+      "States": [
+        {
+          "Image": "Images/gameFilterEdit",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Game Filter - Edit",
+      "UUID": "com.barraider.shadowplay.gamefilteredit",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
+      "Name": "Game Filter - Next",
+      "States": [
+        {
+          "Image": "Images/gameFilterNext",
+          "TitleAlignment": "bottom",
+          "FontSize": "14"
+        }
+      ],
+      "SupportedInMultiActions": true,
+      "Tooltip": "Game Filter - Next",
+      "UUID": "com.barraider.shadowplay.gamefilternext",
+      "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
+    },
+    {
+      "Icon": "Images/icon",
       "Name": "FPS Counter",
       "States": [
         {
@@ -245,10 +290,10 @@
   "Description": "Control NVIDIA ShadowPlay from your Stream Deck",
   "Name": "ShadowPlay",
   "Icon": "Images/pluginIcon",
-  "URL": "https://barraider.github.io/",
-  "Version": "1.1",
+  "URL": "https://BarRaider.com/",
+  "Version": "1.2",
   "CodePathWin": "com.barraider.shadowplay.exe",
-  "Category": "ShadowPlay",
+  "Category": "ShadowPlay [BarRaider]",
   "CategoryIcon": "Images/categoryIcon",
   "OS": [
     {
