@@ -257,7 +257,7 @@
     },
     {
       "Icon": "Images/icon",
-      "Name": "Save Last 5 Minutes",
+      "Name": "Save Last Few Minutes",
       "States": [
         {
           "Image": "Images/save",
@@ -266,7 +266,7 @@
         }
       ],
       "SupportedInMultiActions": true,
-      "Tooltip": "Save the last 5 minutes",
+      "Tooltip": "Save the last few minutes",
       "UUID": "com.barraider.shadowplay.save",
       "PropertyInspectorPath": "PropertyInspector/Shadowplay/Default.html"
     },
@@ -291,7 +291,7 @@
   "Name": "ShadowPlay",
   "Icon": "Images/pluginIcon",
   "URL": "https://BarRaider.com/",
-  "Version": "1.2",
+  "Version": "1.3",
   "CodePathWin": "com.barraider.shadowplay.exe",
   "Category": "ShadowPlay [BarRaider]",
   "CategoryIcon": "Images/categoryIcon",

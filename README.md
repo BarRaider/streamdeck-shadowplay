@@ -2,16 +2,17 @@
 
 **Author's website and contact information:** [https://barraider.com](https://barraider.com)
 
-## New in v1.2
+## New in v1.3
+- Renamed action to `Save last *few* minutes` as it's not always 5 minutes.
+- Updated dependencies
+
+## Current Features
+- Control NVIDIA ShadowPlay from your Stream Deck
 - Support for the new `ShadowPlay Game Filter` with 3 new actions:
    - Toggle Game Filter On/Off
    - Open the Game Filter Edit settings
    - Switch between the preset list of Game Filters
 (Toggle and Switching require to bind a hotkey inside ShadowPlay settings beforehand)
-
-## Current Features
-- Control NVIDIA ShadowPlay from your Stream Deck
-- Now with `Game Filter` support
 
 ### Download
 
