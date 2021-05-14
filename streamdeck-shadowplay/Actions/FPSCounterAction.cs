@@ -10,8 +10,8 @@ namespace Shadowplay.Actions
     [PluginActionId("com.barraider.shadowplay.fps")]
     public class FPSCounterAction : ActionBase
     {
-        private const string REGISTRY_COMMAND_KEY = "FPSOverlayHKey";
-        private static readonly int[] FALLBACK_HOTKEY = { 18, 123 };
+        private const string REGISTRY_COMMAND_KEY = "PMOCOverlayHKey";
+        private static readonly int[] FALLBACK_HOTKEY = { 18, 82 };
 
         public FPSCounterAction(SDConnection connection, InitialPayload payload) : base(connection, payload, REGISTRY_COMMAND_KEY, FALLBACK_HOTKEY)
         {
