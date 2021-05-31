@@ -2,8 +2,8 @@
 
 **Author's website and contact information:** [https://barraider.com](https://barraider.com)
 
-## New in v1.3
-- Renamed action to `Save last *few* minutes` as it's not always 5 minutes.
+## New in v1.4
+- Updated `FPS` Action to work with ShadowPlay's new **Performance Hud**
 - Updated dependencies
 
 ## Current Features
