@@ -291,7 +291,7 @@
   "Name": "ShadowPlay",
   "Icon": "Images/pluginIcon",
   "URL": "https://BarRaider.com/",
-  "Version": "1.4",
+  "Version": "1.5",
   "CodePathWin": "com.barraider.shadowplay.exe",
   "Category": "ShadowPlay [BarRaider]",
   "CategoryIcon": "Images/categoryIcon",
@@ -303,6 +303,6 @@
   ],
   "SDKVersion": 2,
   "Software": {
-    "MinimumVersion": "4.9"
+    "MinimumVersion": "5.0"
   }
 }
